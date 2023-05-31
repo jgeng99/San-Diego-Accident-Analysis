@@ -1,3 +1,6 @@
+# filter out cache
 .vscode
 .DS_Store
+
+# in case data are too large
 data
