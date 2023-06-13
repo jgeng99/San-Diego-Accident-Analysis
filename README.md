@@ -1,4 +1,4 @@
-# Accident Analysis
+# San Diego Accident Analysis
 
 Authors: Huy Trinh, Jianming Geng, Yacun Wang<br>
 June 16th, 2023
