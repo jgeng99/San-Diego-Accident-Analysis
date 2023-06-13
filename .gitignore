@@ -2,3 +2,11 @@
 .vscode
 .DS_Store
 .ipynb_checkpoints
+
+# data files
+data/*.csv
+data/*.shp
+data/*.prj
+data/*.dbf
+data/*.shx
+data/*.cpg
