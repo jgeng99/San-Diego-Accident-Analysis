@@ -10,3 +10,5 @@ data/*.prj
 data/*.dbf
 data/*.shx
 data/*.cpg
+
+*.zip
