@@ -18,4 +18,4 @@ Running data preprocessing requires Python GIS packages and an ArcGIS Online Acc
 
 #### Processed Data
 
-All processed data are created and stored under the [Shared Google Drive](https://drive.google.com/drive/folders/1wpifXxdnxIrisuvbvu8xhulW7McIjEPo?usp=sharing). Download these data and store them in the `data` directory.
+All processed data are created and stored under the [Shared Google Drive](https://drive.google.com/drive/folders/1wpifXxdnxIrisuvbvu8xhulW7McIjEPo?usp=sharing). Download these data and store them in the `data` directory, as well as the `"neo4j-docker - GDS"/db/import` directory.
