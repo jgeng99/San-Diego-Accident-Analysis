@@ -29,7 +29,7 @@ We use two databases to store our data:
 We are using San Diego Data Portal for our raw data, including information on the accidents, Get-It-Done Reports, and roads:
 - [Traffic Collision Records](https://data.sandiego.gov/datasets/police-collisions/)
 - [Vehicles and People Involved in Accidents](https://data.sandiego.gov/datasets/police-collisions-details/)
-- [Get It Done Requests](https://data.sandiego.gov/datasets/get-it-done-311/)
+- [San Diego Get-It-Done Requests](https://data.sandiego.gov/datasets/get-it-done-311/)
 - [Roads](https://data.sandiego.gov/datasets/roads-lines/)
 - [San Diego City Boundary](https://data.sandiego.gov/datasets/san-diego-boundary/)
 
@@ -47,7 +47,7 @@ As suggested by the data sources and their relationships, all analysis questions
 3. Accident Road Information
 4. Accident Information in Relation to Get-It-Done Reports
 
-### File Outline
+### Main Files Outline
 ```
 San-Diego-Accident-Analysis/
 ├── data/                            <- all processed data files
