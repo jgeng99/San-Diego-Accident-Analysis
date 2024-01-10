@@ -1,6 +1,6 @@
 # San Diego Accident Analysis
 
-Authors: Huy Trinh, Jianming Geng, Yacun Wang<br>
+Authors: Yacun Wang, Jianming Geng, Huy Trinh<br>
 June 16th, 2023
 
 ### Problem Statement
